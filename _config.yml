@@ -1,6 +1,6 @@
 plugins:
   - jekyll-relative-links
-theme: cayman
+theme: dinky
 relative_links:
   enabled: true
   collections: true
