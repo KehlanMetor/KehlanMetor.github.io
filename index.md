@@ -1,4 +1,8 @@
 # 🎈 Free Pentest Tools 🎈
 ## Ready to see free tools ?
 
-Click [here](README.md) to see pentest tools
+### Pentest
+Click [here](pentest.md) to see pentest tools
+
+### Osint
+Click [here](osint.md) to see osint tools
